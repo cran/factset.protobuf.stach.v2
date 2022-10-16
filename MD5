@@ -1,4 +1,4 @@
-2a577ecea93819dd7851f17c29601d1a *DESCRIPTION
+bd988779f260ee650c5c20f6a3b9dc9a *DESCRIPTION
 a8b47bb0814506f9c6a11b9884c57dea *NAMESPACE
 39bae905793cf6e14290150692614d01 *R/zzz.R
 67dbaf0bd50138818a46acd8a6b14df0 *inst/schema/fds/protobuf/stach/v2/Package.proto
@@ -20,6 +20,8 @@ ee9a81e54f0e8986f550b68ce24bd577 *inst/schema/fds/protobuf/stach/v2/table/TableD
 ee2efd909f1c882bf401550b2511a2ff *inst/schema/fds/protobuf/stach/v2/table/TableDefinition.proto
 c166c7896980876de26b77d29f63942b *inst/schema/fds/protobuf/stach/v2/table/VerticalAlignment.proto
 328dece0b2b94569520d2aba6abe79d4 *inst/schema/google/protobuf/struct.proto
-67b429abb1674f3cacbb7f58d4df48be *man/factset.protobuf.stach.v2.Rd
+2f45792269b6a1b42de4a0f5cb3e47d3 *inst/testdata/V2ColumnStachData
+3b50b14162285243f2b86e9df67dbb96 *inst/testdata/V2RowStachData
+2631ac000abae8a5d26c7c0a7c12986d *man/factset.protobuf.stach.v2.Rd
 37edde952c8af5ccac28233473f2e4f6 *tests/testthat.R
 d4f779c7ef94313bc798897f011ae755 *tests/testthat/test-protobuf-classes.R
